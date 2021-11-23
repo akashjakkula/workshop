@@ -2,9 +2,9 @@
 # hello mama!!!
 
 ***FRIENDS***
-![image name]![Uploading f.jpg…]
+![image name](https://www.thelist.com/img/gallery/the-truth-about-the-friends-logo/intro-1621439640.jpg)
 
-[google] (
+[google] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.thelist.com%2Fimg%2Fgallery%2Fthe-truth-about-the-friends-logo%2Fintro-1621439640.jpg&imgrefurl=https%3A%2F%2Fwww.thelist.com%2F414666%2Fthe-truth-about-the-friends-logo%2F&tbnid=QHY5FlHmHfs0fM&vet=12ahUKEwi74Ovk1q30AhWVqksFHSIpA1sQMygAegUIARDZAQ..i&docid=d3fQ85iOFWIraM&w=780&h=438&q=friends%20logo&ved=2ahUKEwi74Ovk1q30AhWVqksFHSIpA1sQMygAegUIARDZAQ)
 
 table in redme file
 
