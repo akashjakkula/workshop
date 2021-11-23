@@ -11,3 +11,37 @@
 |3|sasi|548|cse|
 |4|sriman|540|cse|
 |5|teja|539|cse|
+
+# LISTS
+
+## ordered list
+1. cse
+2. ece
+3. eee
+
+## unordered list
+* It
+* mech
+* civil
+
+## nested list
+1. cse
+* programers
+2. ece 
+* non programers
+
+# python code
+
+```python code
+
+a=10
+
+if a%2==0:
+
+print("even number")
+
+else:
+
+print("odd number")
+
+```
