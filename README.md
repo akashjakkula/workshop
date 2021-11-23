@@ -3,7 +3,7 @@
 ###HEADING
 *Italic text*
 **Bold text**
-***text here***
+***FRIENDS***
 ![image name](url-image)
 [google] (link address)
 
