@@ -1,11 +1,8 @@
 
-# hello mama!!!
+# FRIENDS
 
-***FRIENDS***
+
 ![image name](https://www.thelist.com/img/gallery/the-truth-about-the-friends-logo/intro-1621439640.jpg)
-
-
-table in redme file
 
 |s.no| name| roll-no|branch|
 |----|-----|--------|------|
