@@ -1,6 +1,6 @@
-#heading
-##Heading
-###HEADING
+# heading
+## Heading
+### HEADING
 *Italic text*
 **Bold text**
 ***FRIENDS***
